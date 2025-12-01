@@ -1,0 +1,1 @@
+AOC 2025 baby lets gooooo. Doing it in Python again :)
